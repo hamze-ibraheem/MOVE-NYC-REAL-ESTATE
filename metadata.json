@@ -1,0 +1,6 @@
+{
+  "name": "MOVE NYC REAL ESTATE",
+  "description": "A modern, professional real estate landing page optimized to convert visitors into leads for apartment rentals, home buying, and home selling in New York City.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
