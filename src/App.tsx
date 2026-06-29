@@ -331,6 +331,16 @@ export default function App() {
           <span className="flex items-center gap-1 hover:text-[#D4A017] cursor-pointer transition"><Mail size={12}/> HELLO@MOVENYC.COM</span>
         </div>
       </footer>
+
+      {/* FLOATING CTA */}
+      <a 
+        href="https://auroraadv.co/?tab=wizard" 
+        target="_blank" 
+        rel="noopener noreferrer" 
+        className="fixed bottom-6 right-6 sm:bottom-8 sm:right-8 bg-[#D4A017] text-[#0A1628] font-bold text-xs sm:text-sm w-24 h-24 sm:w-[110px] sm:h-[110px] rounded-full shadow-[0_10px_25px_rgba(212,160,23,0.4)] hover:scale-105 transition-transform z-50 flex items-center justify-center text-center p-3 leading-tight border-2 sm:border-4 border-[#0A1628] hover:bg-white"
+      >
+        Get this website for only $999
+      </a>
     </div>
   );
 }
